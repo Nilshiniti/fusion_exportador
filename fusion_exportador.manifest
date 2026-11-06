@@ -1,0 +1,8 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "Nil",
+	"description": { "": "Exporta arquivos do Fusion para o computador (F3D/F3Z, STEP, STL), so para leitura, com registro CSV e retomada." },
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
